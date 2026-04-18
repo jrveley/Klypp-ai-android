@@ -18,6 +18,9 @@
       "permissions": ["INTERNET"]
     },
     "plugins": ["expo-router"],
-    "scheme": "klyppai"
+    "scheme": "klyppai",
+    "experiments": {
+      "typedRoutes": true
+    }
   }
 }
